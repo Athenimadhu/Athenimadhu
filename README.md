@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Athenimadhu
 - 👀 I’m interested in Data Science Field
-- 🌱 I’m currently learning ACP Data Science 
+- 🌱 I'm currently pursuing an MSc in Data Science at Roehampton University 
 - 💞️ I’m looking to collaborate on a Data Analyst role
-- 📫 reach me on LinkedIn:https://www.linkedin.com/in/athenimadhu/
+- 📫 Reach me on LinkedIn:https://www.linkedin.com/in/athenimadhu/
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athenimadhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athenimadhu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AtheniMadhu) 
 
